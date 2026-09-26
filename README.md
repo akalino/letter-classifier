@@ -1,2 +1,2 @@
 # letter-classifier
-TDA for letter/fone classification
+TDA for letter/font classification
